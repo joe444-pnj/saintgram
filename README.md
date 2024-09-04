@@ -13,7 +13,7 @@ Saintgram is a Python tool that allows you to fetch Instagram user information, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/saintgram.git
+   git clone https://github.com/joe444-pnj/saintgram.git
    cd saintgram
 
 2. Install the required packages:
