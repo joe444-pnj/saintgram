@@ -22,9 +22,4 @@ Saintgram is a Python tool that allows you to fetch Instagram user information, 
 
 To retrieve the sessionID:
 
-![68747470733a2f2f66696c65732e636174626f782e6d6f652f31726669366a2e706e67](https://github.com/user-attachments/assets/bae27ec6-f1c3-42d1-997f-d2b63569b838)
-
-
-
-
-
+https://github.com/user-attachments/assets/bae27ec6-f1c3-42d1-997f-d2b63569b838
