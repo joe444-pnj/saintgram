@@ -2,10 +2,11 @@ from termcolor import colored
 import phonenumbers
 from phonenumbers.phonenumberutil import region_code_for_country_code
 import pycountry
+from saintgram.core import get_follower_info  # Import get_follower_info
 
 def print_banner():
     banner = """
-                     /$$             /$$                                               
+                          /$$             /$$                                               
                     |__/            | $$                                               
   /$$$$$$$  /$$$$$$  /$$ /$$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$  /$$$$$$  /$$$$$$/$$$$ 
  /$$_____/ |____  $$| $$| $$__  $$|_  $$_/   /$$__  $$ /$$__  $$|____  $$| $$_  $$_  $$
@@ -17,9 +18,9 @@ def print_banner():
                                             |  $$$$$$/                                 
                                              \______/                                  
 
-  
-                                                             
-"""
+
+
+    """
     print(colored(banner, 'green'))
 
 def display_user_info(infos):
@@ -80,3 +81,4 @@ def process_users(users, session_id):
             continue
         
         display_user_info(follower_info)
+        print("\n")  # Add spacing between followers
