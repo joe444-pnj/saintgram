@@ -18,6 +18,8 @@ def print_banner():
 ░░▀▀█░░░▀▀▀░░█▀░░░░░░▀▀▀░░█▀▀░
 ░░░░▀█▄▄▄▄▄▄█▀░░░░░▄▄▄▄▄▄█▀░░░
 
+
+by : [moghazy]
     """
     print(colored(banner, 'green'))
 
