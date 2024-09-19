@@ -6,7 +6,7 @@ from saintgram.core import get_follower_info  # Import get_follower_info
 
 def print_banner():
     banner = """
-    ░░█▀░░░░░░░▀▀██▀▀░░░░░░░▀█░░
+░░█▀░░░░░░░▀▀██▀▀░░░░░░░▀█░░
 ░█▀░░░░░░░░░░░█░░░░░░░░░░▀█░
 █▀░░░░░░░░░░░░█░░░░░░░░░░░▀█
 █░░░▄▄▄▄▄▄▄▄▄░░█░░░▄▄▄▄▄▄▄░░█
