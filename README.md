@@ -9,6 +9,9 @@ Saintgram is a Python tool that allows you to fetch Instagram user information, 
 - List followers and following accounts with contact information.
 - Supports command-line interface.
 
+## Note: 
+The tool requires the user to be friends with the victim account in order to fetch any private or sensitive data, including followers, following lists, obfuscated emails, and phone numbers.
+
 ## Installation
 
 1. Clone the repository:
@@ -26,3 +29,7 @@ Saintgram is a Python tool that allows you to fetch Instagram user information, 
 
 ## OR WITH EXTENTION 
 ![](https://files.catbox.moe/tu3000.png)
+
+
+
+
