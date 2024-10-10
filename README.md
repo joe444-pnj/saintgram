@@ -16,8 +16,8 @@ The tool requires the user to be friends with the victim account or public targe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/joe444-pnj/saintgram.git
-   cd saintgram
+   :git clone https://github.com/joe444-pnj/saintgram.git
+   :cd saintgram
 
 2. Install the required packages:
   ```bash
