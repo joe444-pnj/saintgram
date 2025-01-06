@@ -1,6 +1,6 @@
 [![saintgram](https://files.catbox.moe/kwwv7n.jpg)]
 
-[![GitHub issues](https://github.com/joe444-pnj/saintgram/issues)]
+[![GitHub issues](https://img.shields.io/github/issues/1N3/saintgram.svg)](https://github.com/1N3/Sn1per/issues)
 
 # Saintgram
 
