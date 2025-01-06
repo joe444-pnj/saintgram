@@ -1,7 +1,5 @@
 [![saintgram](https://files.catbox.moe/kwwv7n.jpg)]
 
-[![GitHub issues](https://img.shields.io/github/issues/1N3/saintgram.svg)](https://github.com/1N3/Sn1per/issues)
-
 # Saintgram
 
 Saintgram is a Python tool that allows you to fetch Instagram user information, including obfuscated emails and phone numbers, as well as follower and following lists.
