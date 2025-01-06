@@ -1,5 +1,6 @@
 [![saintgram](https://files.catbox.moe/kwwv7n.jpg)]
 
+[![GitHub issues](https://github.com/joe444-pnj/saintgram/issues)]
 
 # Saintgram
 
