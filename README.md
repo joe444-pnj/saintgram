@@ -1,4 +1,4 @@
-[![saintgram](https://files.catbox.moe/kwwv7n.jpg)]
+![saintgram](https://files.catbox.moe/kwwv7n.jpg)
 
 # Saintgram
 
